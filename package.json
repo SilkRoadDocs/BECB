@@ -11,5 +11,6 @@
   },
   "devDependencies": {
     "vuepress": "^1.5.2"
-  }
+  },
+  "repository": "https://github.com/SilkRoadDocs/BECB.git"
 }
